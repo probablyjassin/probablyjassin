@@ -11,4 +11,11 @@ stuff i like to look into:
 - hosting my own mailserver
 - making a url shortner
 
+# h2
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="Javascript"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>&nbsp;
+</div>
+
 I also like Mario Kart, Undertale/Deltarune, Chess, and I used to do card magic at times.
