@@ -9,6 +9,7 @@ I use stuff like this to make my projects:
 stuff i like to explore:
 - discord bots
 - my own website(s)
+- writing a python library
 - working with databases
 - hosting a mailserver
 - my own url shortner
