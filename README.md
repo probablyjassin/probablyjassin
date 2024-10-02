@@ -3,6 +3,8 @@ https://jassin.aouani.de
 
 ### cs student
 
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,tailwind,js,nuxtjs,vscode,raspberrypi,mongodb,bots,nginx,cloudflare)](https://skillicons.dev)
+
 stuff i like to look into:
 
 - python & js
