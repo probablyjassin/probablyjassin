@@ -4,6 +4,8 @@
 
 stuff i like to look into:
 
-- js (frameworks)
--   vue, react, (nuxt, next)
-- python
+- python & js
+  - fun discord bots
+  - my own websites vue, react, (nuxt, next)
+- databases (mongodb, mysql)
+- 
