@@ -4,7 +4,7 @@
 ### cs student and employee
 I use stuff like this to make my projects:
 
-[![Stuff](https://skillicons.dev/icons?i=py,html,css,tailwind,js,nuxtjs,vscode,raspberrypi,mongodb,bots,nginx,cloudflare)](https://skillicons.dev)
+[![Stuff](https://skillicons.dev/icons?i=py,js,tailwind,nuxtjs,mongodb,raspberrypi,nginx,cloudflare)](https://skillicons.dev)
 
 things i like to explore:
 - discord bots
