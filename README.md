@@ -1,6 +1,8 @@
 ## Hi, in my free time i code for fun
 <!-- https://jassin.aouani.de -->
 
+[![2024](https://i.ibb.co/xhgrxJz/git-wrapped-probablyjassin-1.png)](https://git-wrapped.com/)
+
 ### cs student and employee
 I use stuff like this to make my projects:
 
