@@ -4,7 +4,7 @@
 [![2024](https://i.ibb.co/xhgrxJz/git-wrapped-probablyjassin-1.png)](https://git-wrapped.com/)
 
 ### cs student and employee
-I use stuff like this to make my projects:
+some of the tools I use:
 
 [![Stuff](https://skillicons.dev/icons?i=docker,py,js,tailwind,nuxtjs,mongodb,raspberrypi,nginx,cloudflare)](https://skillicons.dev)
 
