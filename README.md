@@ -1,7 +1,7 @@
 ## Hi, in my free time i code for fun
 <!-- https://jaess.in -->
 
-[![2024](https://i.ibb.co/xhgrxJz/git-wrapped-probablyjassin-1.png)](https://git-wrapped.com/)
+<img width="640" height="534" alt="git-wrapped-probablyjassin-1" src="https://github.com/user-attachments/assets/006cd849-1963-4326-8a16-d4216d322266" />
 
 ### cs student and employee
 some of the tools I use:
