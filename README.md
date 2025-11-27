@@ -18,4 +18,4 @@ things i like to explore:
 
 and basically anything that sparks my interest.
 
-I enjoy Mario Kart, Undertale/Deltarune, Chess, and I used to do card magic at times.
+I enjoy Mario Kart, Undertale/Deltarune, Chess, and I do card magic at times.
