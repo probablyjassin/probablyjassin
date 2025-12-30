@@ -1,9 +1,10 @@
 ## Hi, in my free time i code for fun
 <!-- https://jaess.in -->
 
-<img width="640" height="534" alt="git-wrapped-probablyjassin-1" src="https://github.com/user-attachments/assets/006cd849-1963-4326-8a16-d4216d322266" />
+<img width="788" height="1388" alt="git-wrapped-probablyjassin" src="https://github.com/user-attachments/assets/4daa3e28-574e-42d8-a5b4-5c4dcb4395d1" />
 
 ### cs student and employee
+
 some of the tools I use:
 
 [![Stuff](https://skillicons.dev/icons?i=docker,py,js,tailwind,nuxtjs,mongodb,raspberrypi,nginx,cloudflare)](https://skillicons.dev)
